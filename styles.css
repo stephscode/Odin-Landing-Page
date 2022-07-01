@@ -1,3 +1,10 @@
+:root {
+    --dark: #1f2937;
+    --light: #e5e7eb;
+    --cta: #3882f6;
+}
+
 * {
     box-sizing: border-box;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
