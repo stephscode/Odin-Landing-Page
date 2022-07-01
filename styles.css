@@ -13,7 +13,7 @@
 
 
 
-
+/* Header Styles Start */
 
 .header-section {
     background-color: var(--dark);
@@ -46,6 +46,10 @@ li:hover {
     font-size: 24px;
     font-weight: 600;
 }
+
+/* ****************** */
+
+/* Hero Styles Start */
 
 .hero-section {
     background-color: var(--dark);
@@ -103,6 +107,10 @@ img {
 
 }
 
+/* ****************** */
+
+/* Info Styles Start */
+
 .info-section {
     padding: 0 7rem;
     height: 50vh;
@@ -145,6 +153,10 @@ h2 {
 
 }
 
+/* ****************** */
+
+/* Quote Section Start */
+
 .quote-section {
     height: 50vh;
     background-color: var(--light);
@@ -167,6 +179,10 @@ h2 {
     font-size: 18px;
     font-weight: bold;
 }
+
+/* ****************** */
+
+/* CTA Section Start */
 
 .cta-section {
     height: 30vh;
@@ -207,6 +223,12 @@ h2 {
     border-radius: 5px;
     font-size: 18px;
 }
+
+
+/* ****************** */
+
+
+/* Footer Section Start */
 
 footer {
     background-color: var(--dark);
